@@ -1,4 +1,5 @@
-# 3ID-ICT [![Telegram](https://img.shields.io/badge/Telegram-@iDoppioclick-blue.svg?style=flat)](https://t.me/iDoppioclick)
+# 3ID-ICT [![Telegram](https://img.shields.io/badge/Telegram-@iDoppioclick-blue.svg?style=flat)](https://t.me/iDoppioclick) [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/iDoppioclick/3ID-ITC)
+
 Repo where I'll put all files of the 2018-2019 address' subjects lessons.
 
 ### General Infos
