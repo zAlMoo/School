@@ -1,0 +1,1 @@
+We were asked to create a very basically HTML page, with our name and surname, in two different colors and the text was needed to be centered.
