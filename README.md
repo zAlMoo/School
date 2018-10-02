@@ -10,7 +10,7 @@ If (for some akward reasons) You want to clone the repo on your server, You just
 
     $ sudo apt-get install git
     $ git clone github.com/iDoppioclick/3ID-ICT.git
-    $ cd ICT-2016-2017
+    $ cd 3ID-ICT
     
 To update the repo with the new files, just run this simple command:
 
