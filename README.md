@@ -6,7 +6,7 @@ Repo where me and my class will put all files of the 2018-2019 address' subjects
 We will put the files divided in folders, renamed by the dates of the works.
 Inside these folders there will be the files and a small .txt file, where I'll put textually what we've done.
 
-**Note**: all the dates are expressed in the DD/MM/YYYY format.
+**Note**: all the dates are expressed in the DD/MM/YYYY format, and are expressed as the deadline of the homework.
 
 ### Repo clonation
 If (for some akward reasons) you want to clone the repo on your server, You just only have to do these commands:
