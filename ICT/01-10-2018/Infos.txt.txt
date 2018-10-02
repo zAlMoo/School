@@ -1,0 +1,2 @@
+We were asked to create an interactive table with the schedule of our lessons, and clicking on the subject's name 
+we should be redirected to a page displaying the subject's infos.
