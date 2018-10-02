@@ -1,4 +1,4 @@
-# 3ID-ICT [![Telegram](https://img.shields.io/badge/Telegram-@iDoppioclick-blue.svg?style=flat)](https://t.me/iDoppioclick) [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/iDoppioclick/3ID-ITC)
+# School [![Telegram](https://img.shields.io/badge/Telegram-@iDoppioclick-blue.svg?style=flat)](https://t.me/iDoppioclick) [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/iDoppioclick/School)
 
 Repo where me and my class will put all files of the 2018-2019 address' subjects lessons.
 
@@ -12,8 +12,8 @@ Inside these folders there will be the files and a small .txt file, where I'll p
 If (for some akward reasons) you want to clone the repo on your server, You just only have to do these commands:
 
     $ sudo apt-get install git
-    $ git clone github.com/iDoppioclick/3ID-ICT.git
-    $ cd 3ID-ICT
+    $ git clone github.com/iDoppioclick/School.git
+    $ cd School
     
 To update the repo with the new files, just run this simple command:
 
